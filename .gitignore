@@ -1,0 +1,9 @@
+learn-terraform-docker-container/.terraform/
+learn-terraform-docker-container/terraform.tfstate
+learn-terraform-docker-container/terraform.tfstate.backup
+learn-terraform-docker-container/.terraform.lock.hcl
+learn-terraform-gcp/variables.tfvars
+learn-terraform-gcp/.terraform/
+learn-terraform-gcp/terraform.tfstate
+learn-terraform-gcp/terraform.tfstate.backup
+learn-terraform-gcp/.terraform.lock.hcl
