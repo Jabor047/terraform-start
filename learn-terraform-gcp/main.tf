@@ -12,7 +12,7 @@ provider "google" {
 
   project = var.project_id
   region  = var.region
-  zone    = var.region
+  zone    = var.zone
 }
 
 resource "google_compute_network" "vpc_network" {
