@@ -6,9 +6,11 @@ variable "project_id" {
 variable "region" {
   description = "The Google Cloud region in which to provision the resources."
   type        = string
+  default = "europe-west2"
 }
 
 variable "zone" {
   description = "The Google Cloud zone in which to provision the resources."
   type        = string
+  default = "europe-west2-a"
 }
