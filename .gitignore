@@ -7,3 +7,8 @@ learn-terraform-gcp/.terraform/
 learn-terraform-gcp/terraform.tfstate
 learn-terraform-gcp/terraform.tfstate.backup
 learn-terraform-gcp/.terraform.lock.hcl
+learn-terraform-cloud-run/*.tfvars
+learn-terraform-cloud-run/.terraform/
+learn-terraform-cloud-run/terraform.tfstate
+learn-terraform-cloud-run/terraform.tfstate.backup
+learn-terraform-cloud-run/.terraform.lock.hcl
